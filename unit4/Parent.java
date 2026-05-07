@@ -1,6 +1,6 @@
 package unit4;
 
-public class Parent {
+public class Parent extends GrandParent {
     String name;
 
     Parent(String name){
